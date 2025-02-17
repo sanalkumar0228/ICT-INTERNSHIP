@@ -1,0 +1,21 @@
+h4{
+    color: aqua;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: right;
+}
+
+#id1{
+    text-align: center;
+}
+.box1{
+    border: 2px solid black;
+    background-color: aliceblue;
+    background-image: url(https://media.istockphoto.com/id/837011094/photo/defocused-blurred-motion-abstract-background-orange-yellow.jpg?s=2048x2048&w=is&k=20&c=LDvDWlcD40TiIgC5NeC97W1g-jW8bfmKfcy7JlWk9Dw=);
+    margin: 3% ;
+    padding: 3% 10% ;
+    border-radius: o.5em;
+}
+
+
+
+    

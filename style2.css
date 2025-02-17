@@ -1,0 +1,8 @@
+table,th,td{
+    border: 3px solid black;
+}
+body{
+    background-image:url(https://img.freepik.com/free-vector/cerulean-blue-curve-frame-template_53876-99029.jpg?t=st=1739773958~exp=1739777558~hmac=d4f04c7e0711584f18918769dfddaa0bae61a51800c1a37265a1e93dd8ceea50&w=1380);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
